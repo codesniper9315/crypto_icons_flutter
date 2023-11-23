@@ -1,7 +1,7 @@
 name: crypto_icons_flutter
 description: A new Flutter package project.
 version: 0.0.1
-homepage: null
+homepage: https://github.com/codesniper9315/crypto_icons_flutter
 
 environment:
   sdk: '>=3.1.5 <4.0.0'
